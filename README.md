@@ -1,2 +1,5 @@
 # Agenda-Objectif-HUD
-Simple addon ressemblant à l'agenda du DarkRP mais pour tous les joueurs. Les admins peuvent changer le texte en écrivant : !objectif
+
+Tous les jours ont un petit HUD en haut à droite de leurs écrans.
+Les admins ont la possibilités de modifier le texte qui compose l'HUD (2 titres, 2 textes) avec la commande : !objectif
+
